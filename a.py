@@ -5,3 +5,4 @@ print(qwe)
 x= 5
 y=10
 z = 15
+zz = 25
