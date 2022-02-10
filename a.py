@@ -6,10 +6,6 @@ x= 5
 y=10
 z = 15
 a = "anusri"
-zz = 25
-a = "anutri"
-print("This is anu branch")
-print("This is DEV branch")
 print("This is DEV branch")
 zz = 25
 a = "anutri"
