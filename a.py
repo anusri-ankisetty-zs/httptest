@@ -6,6 +6,7 @@ x= 5
 y=10
 z = 15
 a = "anusri"
+<<<<<<< HEAD
 zz = 25
 a = "anutri"
 
@@ -15,4 +16,7 @@ print("This is anu branch")
 
 
 
+
+
+print("This is DEV branch")
 
